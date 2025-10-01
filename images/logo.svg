@@ -1,0 +1,7 @@
+<!-- Save this as images/logo.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">Desiree Braxton logo</title>
+  <rect x="0" y="0" width="200" height="200" rx="20" fill="#111827"/>
+  <circle cx="60" cy="60" r="28" fill="#F59E0B"/>
+  <text x="110" y="115" font-family="Verdana, Arial, sans-serif" font-size="28" fill="#ffffff" text-anchor="middle">DB</text>
+</svg>
